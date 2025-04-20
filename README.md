@@ -1,1 +1,2 @@
 # Satellite-Image-Classification
+Developed a satellite image classification system using the RSI-CB256 dataset, categorizing images into cloudy, desert, green area, and water. Preprocessed and standardized image data, followed by feature extraction using PCA to reduce dimensionality. Trained multiple ML models including SVM, Random Forest, and KNN. Combined model outputs using a Voting Classifier to enhance accuracy and robustness. Achieved 94% training and 83% test accuracy. Implemented using Python in Jupyter Notebook with Scikit-learn, NumPy, Pandas, and PIL.
